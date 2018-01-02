@@ -1,5 +1,7 @@
 # Swagger UI Express
 
+NOTE: This is a fork of [swagger-ui-express](https://github.com/scottie1984/swagger-ui-express) which only removes .map files from package.
+
 Adds middleware to your express app to serve the Swagger UI bound to your Swagger document. This acts as living documentation for your API hosted from within your app.
 
 Updated to Swagger 3.4.4

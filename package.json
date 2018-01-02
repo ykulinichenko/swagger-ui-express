@@ -1,7 +1,7 @@
 {
-  "name": "swagger-ui-express",
-  "version": "2.0.13",
-  "description": "Swagger UI Express",
+  "name": "swagger-ui-express-lightweight",
+  "version": "1.0.0",
+  "description": "Swagger UI Express Lightweight",
   "main": "./lib/index.js",
   "files": [
     "static",
@@ -30,17 +30,17 @@
     "phantom": "2.1.21"
   },
   "author": {
-    "name": "Stephen Scott",
-    "email": "scottie1984@gmail.com"
+    "name": "Yevhen Kulinichenko",
+    "email": "ekulinichenko@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:scottie1984/swagger-ui-express.git"
+    "url": "git@github.com:ykulinichenko/swagger-ui-express.git"
   },
   "license": "BSD-2-Clause",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/scottie1984/swagger-ui-express/issues"
+    "url": "https://github.com/ykulinichenko/swagger-ui-express/issues"
   },
-  "homepage": "https://github.com/scottie1984/swagger-ui-express"
+  "homepage": "https://github.com/ykulinichenko/swagger-ui-express"
 }
